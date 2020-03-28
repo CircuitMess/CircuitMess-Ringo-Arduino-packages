@@ -109,19 +109,19 @@ Change USB port and/or check your cable.
 
      Now click on the little **Upload** arrow in the upper left corner.
 
-<img src="https://www.circuitmess.com/wp-content/uploads/2020/03/Pic14-1.png" alt="drawing" width="700"/>
+<img src="https://www.circuitmess.com/wp-content/uploads/2020/03/Pic14.png" alt="drawing" width="700"/>
 
 10. After a few moments, the text should say **'Done uploading'**.   
 Now only thing left to do is to check if everything is working properly.  
  Click the magnifier icon in the upper right corner of the screen.
 
-<img src="https://www.circuitmess.com/wp-content/uploads/2020/03/Pic15-2.png" alt="drawing" width="700"/>
+<img src="https://www.circuitmess.com/wp-content/uploads/2020/03/Pic15.png" alt="drawing" width="700"/>
 
 11. On a newly opened window, from a drop down menu, select **'115200 baud'**.  
  That is the speed that the software writes at in the **Serial Monitor**.   
  If the text says the line that you wrote in the **print** function, then everything works!  
 
-<img src="https://www.circuitmess.com/wp-content/uploads/2020/03/Pic16-1.png" alt="drawing" width="700"/>
+<img src="https://www.circuitmess.com/wp-content/uploads/2020/03/Pic16.png" alt="drawing" width="700"/>
 
 12. There is also a Ringo library in Arduino Library Manager that allows you to use all the important functions and libraries from the Ringo firmware when writing your own programs. Go to **Sketch**-> **Include Library** -> **Manage Libraries...**. Enter the keyword **'Ringo'** in the search bar and click the **'Install'** button to download and install the library.
 
