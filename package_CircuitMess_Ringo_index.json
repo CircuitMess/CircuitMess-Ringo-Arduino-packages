@@ -11,7 +11,7 @@
           "category": "CM",
           "name": "Ringo",
           "url": "https://github.com/CircuitMess/CircuitMess-Ringo-Arduino-packages/blob/master/Ringo-1.0.6.zip?raw=true",
-          "checksum": "SHA-256:10B21FC0D565633C258E8CDECE0E2B8095CC765CD01ABE7DB1489F867C729FB9",
+          "checksum": "SHA-256:8C106A711D7B492B563E1AEBB128AFC70C4968FA88C0B9955B41C90B90EC6B3F",
           "help": {
             "online": ""
           },
@@ -40,7 +40,7 @@
               "name": "mkspiffs"
             }
           ],
-          "size": "32084534"
+          "size": "32084533"
         },
         {
           "category": "CM",
