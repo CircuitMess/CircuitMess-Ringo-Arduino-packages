@@ -167,7 +167,7 @@ Now only thing left to do is to check if everything is working properly.
 
 Copyright © 2019 CircuitMess
 
-Licensed under [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.html)
+Licensed under [LGPL-2.1](https://github.com/CircuitMess/CircuitMess-Ringo-Arduino-packages/blob/master/LICENSE)
 
 
 
