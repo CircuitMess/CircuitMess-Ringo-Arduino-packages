@@ -5,7 +5,7 @@
 
 **Ringo** is an educational mobile phone that you make and code yourself. It comes in parts that have to be assembled and then leaves you with all the time in the world to build on the pre-loaded software.
 
-<img src="https://www.circuitmess.com/wp-content/uploads/Makerphone_crop_523x768-1.png" width="425"/> <img src="https://www.circuitmess.com/wp-content/uploads/DSC05978_1024x683crop-1.jpg" width="425"/>
+<img src="https://cm-api.zekan.tk/user-3/1594318391783-ringo2.png" width="425"/> <img src="https://cm-api.zekan.tk/user-3/1594318391672-dsc05978_1024x683crop.jpg" width="425"/>
 
 This is the page where you will find all the neccessary information about how to do your own programming on Ringo using **Arduino** platform.
 
@@ -131,12 +131,12 @@ Now only thing left to do is to check if everything is working properly.
 13. Whenever you want to re-upload 'Default Ringo Software' you have to go to **Tools** -> **Programmer** and select
  **"Ringo Firmware"**.
 
-<img src="https://www.circuitmess.com/wp-content/uploads/2020/03/Snip1-R2.png" alt="drawing" width="700"/>
+<img src="https://cm-api.zekan.tk/user-3/1594318391677-snip1-r2.png" alt="drawing" width="700"/>
 
  Now go to **Tools** -> **Burn Bootloader** and you will have the default firmware on your Ringo as soon as 
  the upload is finished.
 
-<img src="https://www.circuitmess.com/wp-content/uploads/2020/03/Snip2-R2.png" alt="drawing" width="700"/>
+<img src="https://cm-api.zekan.tk/user-3/1594318391749-snip2-r2.png" alt="drawing" width="700"/>
 
 
 **Congrats! You have successfully set up Ringo phone.  
