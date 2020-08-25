@@ -94,6 +94,8 @@ It will connect to one of the **COM** ports.
 **NOTE**: If **Port** is greyed out it means the phone is not correctly connected.  
 Change USB port and/or check your cable.
 
+**NOTE**: This next step will effectively "erase" the whole Ringo firmware from the phone. If you want to return it, follow the **step 13**! If you don't want to do any work on your phone right now, you can skip these next few steps.
+
 9. Now it's all set up to write your first program! In the **void setup()** section write the following line:  
    
     ```cpp
@@ -110,8 +112,6 @@ Change USB port and/or check your cable.
      Now click on the little **Upload** arrow in the upper left corner.
 
 <img src="https://cm-api.zekan.tk/user-3/1594297943061-pic14.png" alt="drawing" width="700"/>
-
-**NOTE**: This next step will effectively "erase" the whole Ringo firmware from the phone. If you want to return it, follow the **step 13**! If you don't want to do any work on your phone right now, you can skip these next few steps.
 
 10. After a few moments, the text should say **'Done uploading'**.   
 Now only thing left to do is to check if everything is working properly.  
